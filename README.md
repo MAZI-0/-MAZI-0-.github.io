@@ -1,1 +1,1 @@
-# -MAZI-0-.github.io
+# MAZI-0.github.io
